@@ -1,0 +1,37 @@
+{
+    "cars": [
+        {
+            "id": "1aa6c14a",
+            "brand": "BMW",
+            "model": "X5",
+            "year": 2012,
+            "volume": 3.9,
+            "color": "Dark Black",
+            "type": "Хэтчбек",
+            "mileage": "125км",
+            "price": "12000$"
+        },
+        {
+            "id": "979fd8e3",
+            "brand": "Hyundai",
+            "model": "Sonata",
+            "year": 2017,
+            "volume": 3.7,
+            "color": "Red",
+            "type": "Универсал",
+            "mileage": 5434,
+            "price": 12000
+        },
+        {
+            "id": "e3f743fb",
+            "brand": "Mercedes",
+            "model": "S cls",
+            "year": 2007,
+            "volume": 3.3,
+            "color": "Blue",
+            "type": "Седан",
+            "mileage": "6543км",
+            "price": "8000$"
+        }
+    ]
+}
